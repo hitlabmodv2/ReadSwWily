@@ -7,10 +7,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "takim",
+  "author": "Wilykun",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "@whiskeysockets/baileys": "npm:@whiskeysockets/baileyss@latest",
     "qrcode-terminal": "^0.12.0"
   }
 }
