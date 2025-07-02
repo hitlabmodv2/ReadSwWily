@@ -10,7 +10,7 @@
   "author": "Wilykun",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:@whiskeysockets/baileyss@latest",
+    "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@latest",
     "qrcode-terminal": "^0.12.0"
   }
 }
